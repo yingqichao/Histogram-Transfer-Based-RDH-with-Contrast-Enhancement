@@ -1,4 +1,4 @@
-# RDH-with-Contrast-Enhancement
+# Histogram Transfer Based Reversible Data Hiding with Image Enhancement
 
  It may takes several minutes for embedding and extracting (mainly depends on the size of input images)
  
