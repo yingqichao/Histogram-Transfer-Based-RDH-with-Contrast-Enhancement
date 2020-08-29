@@ -29,8 +29,11 @@ Link:
 Contact me if you have any suggestion/comment or find any bug while using the codes, or new idea about RDH-CE or even applying deep neural network(DNN) on RDH (which seems to be impossible so far simply cuz no way can we strictly let the training loss equal to zero), via:
 Email: 
 > shinydotcom@163.com.
+
 Wechat account:
 > acshu123
+
 Twitter account:
 >Shinylaa
+
 And I will quickly reply. :)
