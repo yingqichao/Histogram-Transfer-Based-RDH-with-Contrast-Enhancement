@@ -22,6 +22,7 @@ Specially Thank to Professor Zhenxing Qian, Xinpeng Zhang from Fudan University 
 For more detailed information in RDH-CE, I may refer you to a well-known efficient data hiding scheme called "Reversible Data Hiding With Optimal Value Transfer", which is proposed by my professor Dr. Xinpeng Zhang from Fudan University.
 Citation:
 > Zhang X. Reversible data hiding with optimal value transfer[J]. IEEE Transactions on Multimedia, 2012, 15(2): 316-325.
+
 Link:
 > https://ieeexplore.ieee.org/document/6359955/
 
